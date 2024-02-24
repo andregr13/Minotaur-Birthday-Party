@@ -13,7 +13,7 @@ public class LabyrinthGame
 	static Condition [] visitorPicked;
 	static int totalVisitors;
 	
-	public static void main(String [] args) throws FileNotFoundException
+	public static void main(String [] args)
 	{
 		totalVisitors = 10;
 		
